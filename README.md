@@ -4,7 +4,7 @@ A simple face detection system using OpenCV and Python. The program captures vid
 
 ## Requirements
 - Python 3.x
-- OpenCV
+- OpenCV (opencv-python) version 4.10.0.84
 
 ## Installation
 
