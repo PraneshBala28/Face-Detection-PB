@@ -2,7 +2,7 @@
 
 A simple face detection system using OpenCV and Python. The program captures video from the webcam and detects faces in real-time.
 
-![alt text]([http://url/to/img.png](https://github.com/PraneshBala28/Face-Detection-PB/blob/main/FaceDetection.jpg?raw=true))
+![FACE DETECTION](https://github.com/PraneshBala28/Face-Detection-PB/blob/main/FaceDetection.jpg?raw=true)
 
 ## Requirements
 - Python 3.x
@@ -41,5 +41,7 @@ A simple face detection system using OpenCV and Python. The program captures vid
 - **Exit:** Release the capture and close windows when `q` is pressed.
 
 ---
-
 *Project by Pranesh Balaji.*
+
+![Working Screenshot](https://github.com/PraneshBala28/Face-Detection-PB/blob/main/workingSS.jpg?raw=true)
+
